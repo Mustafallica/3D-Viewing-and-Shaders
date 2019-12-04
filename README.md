@@ -11,5 +11,3 @@ to run
 i have included a print screen of the final result. USE WASD Keys in the keyboard with 
 the mouse to move the object from 2d to 3d. 
 
-- Mustafa AL-Jaburi
-- 1615276
